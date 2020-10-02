@@ -1,6 +1,6 @@
 ## SHAAAAAAAAAAAAA
 
-**Note:** This project, and much of its documentation, was written in the fall of 2014, when SHA-1 was still very common and the transition was only beginning.
+**Note:** This project, and much of its documentation, was written in the fall of 2014, when SHA-1 was still very common and the transition was only in primitive stage.
 
 **As of 2016, all CAs are required to only issue SHA-2**, and SHA-1 was mostly removed from modern OSes and browsers in 2017.
 
